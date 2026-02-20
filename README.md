@@ -12,7 +12,7 @@ I am an **AWS Specialist** and **MBA Technology Management** graduate with over 
 - 📍 **Location:** London, United Kingdom (but willing to relocate)
 - 🎓 **Current Pursuit:** MSc in Cyber Security & MSc in Artificial Intelligence
 
----
+
 
 ## 🏢 Companies I've Worked With
 <p align="center">
@@ -37,7 +37,7 @@ I am an **AWS Specialist** and **MBA Technology Management** graduate with over 
   <img src="assets/img/logos/mental_health_innovations_logo.jpeg" width="100" alt="MHI" />
 </p>
 
----
+
 
 ## 🛠 Tech Stack & Skills
 
@@ -57,7 +57,7 @@ I am an **AWS Specialist** and **MBA Technology Management** graduate with over 
 - **Data Engineering:** AWS Glue, Athena, PySpark, EMR, Kinesis
 - **AI/ML:** Amazon Bedrock, SageMaker, TensorFlow, Neural Networks
 
----
+
 
 ## 📈 Recent Highlights
 * **ISO27001 Success:** Spearheaded infrastructure hardening for Stage 1 & 2 audits, achieving 100% visibility for critical metrics via IaC.
@@ -65,7 +65,7 @@ I am an **AWS Specialist** and **MBA Technology Management** graduate with over 
 
 * **Open Source Author:** Published and maintain the **gnubg** package on PyPI, facilitating neural network integration for the GNU Backgammon project.
 
----
+
 
 ## 🎓 Education & Certifications
 - **MBA** in Technology Management (The Open University)
@@ -74,7 +74,7 @@ I am an **AWS Specialist** and **MBA Technology Management** graduate with over 
 - **AWS Certified DevOps Engineer – Professional**
 - **SAFe 4 Practitioner**
 
----
+
 
 ## 🎨 Beyond the Terminal
 When I'm not architecting cloud solutions, I'm likely:
@@ -83,14 +83,14 @@ When I'm not architecting cloud solutions, I'm likely:
 - 🎲 Contributing to the **GNUBG** project (Backgammon/Neural Networks).
 - 🌍 Volunteering with **US Digital Response** to help government agencies leverage AI.
 
----
+
 
 ## 🌟 Volunteer & Open Source
 * **US Digital Response:** Technical Consultant for AI solutions in government.
 * **TechToTheRescue:** Developing Unity-based games for nonprofits.
 * **GNUBG Project:** Contributor specializing in Neural Network integration.
 
----
+
 
 ## 📜 Professional Certifications
 <p align="left">
@@ -105,7 +105,7 @@ When I'm not architecting cloud solutions, I'm likely:
 - **Agile:** SAFe 4 Practitioner
 - **IT Service:** ITILv3 Foundation
 
----
+
 
 ## 🛠 Projects & Ventures
 
@@ -120,7 +120,7 @@ When I'm not architecting cloud solutions, I'm likely:
 * **Featured Project:** Developing advanced Backgammon apps and AI-driven board games.
 * **Research:** Integrating neural networks and game theory into interactive mobile experiences.
 
----
+
 
 ## 📫 Connect with me
 - **Email:** [david@awsbot.com](mailto:david@awsbot.com)
