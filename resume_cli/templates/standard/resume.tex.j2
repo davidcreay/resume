@@ -1,0 +1,44 @@
+\documentclass{resume}
+
+\begin{document}
+
+% --- CONTACT HEADER ---
+\resumeHeader
+    { {{ personal.name }} }
+    { {{ personal.title }} }
+    { {{ personal.location }} }
+    { {{ personal.email }} }
+    { {{ personal.phone }} }
+    { {{ personal.linkedin }} }
+    { {{ personal.github }} }
+
+% --- SUMMARY ---
+\section{PROFESSIONAL SUMMARY}
+{{ personal.summary }}
+
+% --- SKILLS OVERVIEW ---
+\section{SKILLS OVERVIEW}
+{% include 'sections/skills.tex.j2' %}
+{%  if graphics %}
+\vspace{4pt}
+{% endif %}
+
+\clearpage
+% --- PROFESSIONAL EXPERIENCE ---
+\section{PROFESSIONAL EXPERIENCE}
+{% include 'sections/experience.tex.j2' %}
+
+% --- EDUCATION ---
+\section{EDUCATION}
+{% include 'sections/education.tex.j2' %}
+
+% --- CERTS ---
+\section{CERTIFICATIONS AND TRAINING}
+{% include 'sections/training.tex.j2' %}
+{#\input{sections/badges}#}
+
+% --- INTERESTS ---
+\section{INTERESTS}
+{% include 'sections/interests.tex.j2' %}
+
+\end{document}
